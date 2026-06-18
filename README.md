@@ -1,7 +1,7 @@
-API -[ my first infrastructure project ]
+***API*** -[ my first infrastructure project ]
 
-***FastAPI***
-***uvicorn***
-***Dockerfile***
-***MLflow***
-***DVC***
+***FastAPI***,
+***uvicorn***,
+***Dockerfile***,
+***MLflow***,
+***DVC***.
